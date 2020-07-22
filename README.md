@@ -1,2 +1,3 @@
 # Coursera_Capstone
-## Problem:
+## Introduction:
+### Potential Problem:
