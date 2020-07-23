@@ -21,8 +21,10 @@ Columns are:
 14. reviews_per_month  
 15. calculated_host_listings_count: number of Airbnb listing for this host  
 16. availability_365: number of days that available for rent  
-### Project Objective
+## Part 2: Project Objective:
 The goal of this project is to firstly filter Airbnb listings by certain categories, and then use cluster method to find the neighborhoods that contain similar venues, so that people could choose suitable Airbnb in NYC based on the similarity of neighborhoods.
-### Results:
+## Part 3: Results:
+### Example Condition:
+![c1dfa52f526fa728e61574bf991e4f4](https://user-images.githubusercontent.com/35820654/88345688-80abbc80-cd14-11ea-8342-2d73299d4359.png)
 
 
