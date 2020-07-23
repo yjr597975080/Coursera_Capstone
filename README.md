@@ -26,5 +26,7 @@ The goal of this project is to firstly filter Airbnb listings by certain categor
 ## Part 3: Results:
 ### Example Condition:
 ![c1dfa52f526fa728e61574bf991e4f4](https://user-images.githubusercontent.com/35820654/88345688-80abbc80-cd14-11ea-8342-2d73299d4359.png)
+### Selected Airbnb Listings that Fit the Condition:
+![outcome](https://user-images.githubusercontent.com/35820654/88345804-c8324880-cd14-11ea-93a5-85759cffc9be.png)
 
 
