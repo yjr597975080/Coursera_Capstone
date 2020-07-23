@@ -28,5 +28,7 @@ The goal of this project is to firstly filter Airbnb listings by certain categor
 ![c1dfa52f526fa728e61574bf991e4f4](https://user-images.githubusercontent.com/35820654/88345688-80abbc80-cd14-11ea-8342-2d73299d4359.png)
 ### Selected Airbnb Listings that Fit the Condition:
 ![outcome](https://user-images.githubusercontent.com/35820654/88345804-c8324880-cd14-11ea-93a5-85759cffc9be.png)
-
-
+## Part 4: Discussion:
+This project mainly makes recommendations based on similarity of venues, but I believe that I can make recommendation systems based on other similarity of neighborhoods.
+## Part 5: Conclusion:
+Through this project, I can make recommendation of Airbnb in NYC for people with different conditions, in order to help people to choose which airbnb listings are the best for them.
