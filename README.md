@@ -23,4 +23,6 @@ Columns are:
 16. availability_365: number of days that available for rent  
 ### Project Objective
 The goal of this project is to firstly filter Airbnb listings by certain categories, and then use cluster method to find the neighborhoods that contain similar venues, so that people could choose suitable Airbnb in NYC based on the similarity of neighborhoods.
+### Results:
+
 
